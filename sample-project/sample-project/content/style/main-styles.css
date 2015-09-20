@@ -1,0 +1,15 @@
+﻿body {
+}
+
+div.main {
+    border: 1px dotted #ffd800;
+}
+
+div.business-card {
+    background-color:white;
+}
+
+div.business-card div.picture {
+    height:auto; width:25%;
+    display:inline-block;
+}

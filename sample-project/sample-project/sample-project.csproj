@@ -66,7 +66,14 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="application.html" />
+    <Content Include="content\partials\business-card.html" />
+    <Content Include="content\style\main-styles.css" />
+    <Content Include="modules\main.controller.js" />
+    <Content Include="modules\app.js" />
+    <Content Include="modules\user\user.service.js" />
     <Content Include="packages.config" />
+    <Content Include="objects\crawford.gus.json" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
