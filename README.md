@@ -9,7 +9,8 @@ Journals end-to-end testing with karma and jasmine
 #1 Install Node.js
 Visit node website, install Node.js
 
-
 #2 Install Karma
+See introduction to installing Karma
 
-#3 Jasmin
+#3 Jasmine Init
+Initialize Jasmine framework
