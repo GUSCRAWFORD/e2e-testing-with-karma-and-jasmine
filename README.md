@@ -1,5 +1,5 @@
 # e2e-testing-with-karma-and-jasmine
-Journals the process of end-to-end unit-testing, javascript and angular components using Karma and Jasmine.
+Journals the process of end-to-end testing with protractor, and unit-testing of javascript and angular components using Karma and Jasmine.
 
 ## Overview
 Jasmine is a popular and widely used framework for unit testing javascript code.
