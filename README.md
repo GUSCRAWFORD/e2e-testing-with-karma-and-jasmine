@@ -6,7 +6,7 @@ Jasmine is a popular and widely used framework for unit testing javascript code.
 
 Karma runner runs Jasmine tests on your code.  You'll need to use an angular library providing "mock" components of it's framework that inject your services / factories and other angular injectables.
 
-1. Instll Node
+1. [Install Node](#step-1-install-node)
 
 ## Required Reading
 - http://jasmine.github.io/ - The testing framework we're using.
