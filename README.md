@@ -16,7 +16,7 @@ Karma runner runs Jasmine tests on your code.  You'll need to use an angular lib
 Visit node website, install Node.js
 - Karma executes in Node.js environment
 
-#Step 2 Install Karma
+##Step 2 Install Karma
 See introduction to installing Karma
 
 ##Step 3 Using Jasmine
